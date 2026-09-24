@@ -14,7 +14,7 @@ export const experience: Experience[] = [
     period: "07/2025 — Present",
     location: "United Kingdom",
     description: [
-      "Lead a team of 4 engineers across the full SDLC — planning, spec review, and delivery.",
+      "Lead a team of 6 engineers across the full SDLC — planning, spec review, and delivery.",
       "Act as the primary contact point with cross-functional teams (BA, Infra, QC).",
       "Drive Enterprise customer onboarding by bridging the gap between client needs and the system.",
       "Serve as subject-matter expert and technical adviser for mobile.",
